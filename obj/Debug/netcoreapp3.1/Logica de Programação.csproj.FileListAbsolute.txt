@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\bin\Debug\netcoreapp3.1\Logica de Programação.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\bin\Debug\netcoreapp3.1\Logica de Programação.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\bin\Debug\netcoreapp3.1\Logica de Programação.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\bin\Debug\netcoreapp3.1\Logica de Programação.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\bin\Debug\netcoreapp3.1\Logica de Programação.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\bin\Debug\netcoreapp3.1\Logica de Programação.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\obj\Debug\netcoreapp3.1\Logica de Programação.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\obj\Debug\netcoreapp3.1\Logica de Programação.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\obj\Debug\netcoreapp3.1\Logica de Programação.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\obj\Debug\netcoreapp3.1\Logica de Programação.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\obj\Debug\netcoreapp3.1\Logica de Programação.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\obj\Debug\netcoreapp3.1\Logica de Programação.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\Trabalhos\Logica de Programação\obj\Debug\netcoreapp3.1\Logica de Programação.genruntimeconfig.cache
